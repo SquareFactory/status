@@ -3,6 +3,7 @@
 **Known issues**
 
 - issue: the running experiment durations calculation is wrong
+- issue: datasets might not contain the underscore character
 
 **2021-06-28 (v1.2.0)**
 
