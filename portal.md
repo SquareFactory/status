@@ -6,13 +6,13 @@
 
 **2021-06-28 (v1.2.0)**
 
-- feat(experiments): experiments now supports custom datasets, code and artifacts mount points
-- feat(experiments): experiment artifacts can now be downloaded
-- feat(experiments): implement experiments batching
-- feat(quickstart): update quickstart page to a brand new design (#249)
-- feat(tokens): implement personal tokens
-- fix(datasets): directories and files are now sorted alphabetically
-- fix(experiments): prevent experiments logs duplication
+- feature: experiments now supports custom datasets, code and artifacts mount points
+- feature: experiment artifacts can now be downloaded
+- feature: implement [experiments batching](https://docs.csquare.run/docs/experiments/run-an-experiment/#experiments-batching)
+- feature: update [quickstart page](https://csquare.run/quickstart) to a brand new design
+- feature: implement personal tokens management
+- fix: directories and files are now sorted alphabetically in dataset explorer
+- fix: prevent experiments experiments logs duplication
 
 **2021-06-24**
 
