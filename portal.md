@@ -4,6 +4,13 @@
 
 - issue: datasets might not contain the underscore character
 
+**2021-07-12 (v1.3.0)**
+
+- feature: dataset files can now be uploaded directly from the portal via drag and drop
+- feature: settings page have been redesigned
+- feature: new tutorials on most of the portal pages
+- feature: job max waiting time in the queue can be configured
+
 **2021-06-30 (v1.2.1)**
 
 - **BREAKING CHANGE**: we are rotated all the datasets credentials to use the new `C2-XXXXXXXXX` format
