@@ -3,6 +3,7 @@
 **Known issues**
 
 - issue: datasets might not contain the underscore character
+- issue: account informations cannot be changed
 
 **2021-07-12 (v1.3.0)**
 
