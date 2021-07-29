@@ -5,6 +5,12 @@
 - issue: datasets might not contain the underscore character
 - issue: account informations cannot be changed
 
+**2021-07-28 (v1.4.0)**
+
+- feature: add project templates
+- feature: invitation can now be accepted directly from the portal
+- fixed: experiment startup time should be shorter and faster
+
 **2021-07-12 (v1.3.0)**
 
 - feature: dataset files can now be uploaded directly from the portal via drag and drop
